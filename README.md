@@ -1,17 +1,10 @@
 # Description
 
-- A GUI Only port of the RailsCasts TextMate theme to Vim.
-- Some parts of this theme were borrowed from the well-documented Lucius theme [2].
-- Initial file was written by Josh O'Rourke then improved by Oguz Bilgic
+- A 256-color version-ish of the Sexy RailsCasts Vim theme
 
 # Installation
 
-- Copy railscasts.vim into ~/.vim/colors/ (Unix) or vimfiles/colors/ (Windows) as with 
+- Copy sexy-railscasts-256.vim into ~/.vim/colors/ (Unix) or vimfiles/colors/ (Windows) as with 
   other color schemes.
-- Type "colorscheme railscasts" into your vimrc file.
+- Type "colorscheme sexy-railscasts-256" into your vimrc file.
 
-# Comparison
-
-Screenshoots will be added soon
-
-![sexy railscasts theme](https://github.com/oguzbilgic/sexy-railscasts-theme/raw/master/sexy-vs-original.png)
