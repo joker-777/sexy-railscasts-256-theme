@@ -8,3 +8,5 @@
   other color schemes.
 - Type "colorscheme sexy-railscasts-256" into your vimrc file.
 
+
+![sexy railscasts 256 theme](https://github.com/davidkariuki/sexy-railscasts-256-theme/raw/master/screenshot.png)
