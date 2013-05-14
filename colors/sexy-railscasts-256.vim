@@ -41,6 +41,10 @@ highlight VertSplit                 guifg=#383838 guibg=#383838 ctermfg=236 cter
 highlight Directory                 guifg=#A5C261 gui=NONE ctermfg=107
 highlight StatusLine                ctermfg=236
 
+highlight Pmenu                     guifg=#F6F3E8 guibg=#444444 ctermfg=230 ctermbg=234 gui=NONE
+highlight PmenuSel                  guifg=#000000 guibg=#A5C261 ctermfg=232 ctermbg=64 gui=NONE
+highlight PMenuSbar                 guibg=#5A647E ctermbg=64 gui=NONE
+highlight PMenuThumb                guibg=#AAAAAA ctermbg=240 gui=NONE
 
 highlight PreProc                   guifg=#E6E1DC ctermfg=103
 highlight Search                    guifg=NONE ctermfg=NONE guibg=#2b2b2b ctermbg=235 gui=italic cterm=underline
